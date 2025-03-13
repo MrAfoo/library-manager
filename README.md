@@ -13,7 +13,7 @@ A simple command-line Personal Library Manager in Python that allows users to ma
 ## Installation & Usage 🚀
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/personal-library-manager.git
+   git clone https://github.com/MrAfoo/library-manager.git
    ```
 2. Navigate to the project directory:
    ```bash
