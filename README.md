@@ -17,7 +17,7 @@ A simple command-line Personal Library Manager in Python that allows users to ma
    ```
 2. Navigate to the project directory:
    ```bash
-   cd personal-library-manager
+   cd library-manager
    ```
 3. Run the script:
    ```bash
